@@ -33,5 +33,6 @@ This is the backend for the Task Manager App, built with **Node.js**, **Express*
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-backend.git
+   git clone https://github.com/RojeshPradhan/Task-Backend-.git
    cd task-manager-backend
+   ```
